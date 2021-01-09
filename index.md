@@ -8,7 +8,7 @@ Physicist, Mathematician, Cambridge professor.
 <div id="webaddress">
 <a href="josh@joshkirk.co.uk">josh@joshkirk.co.uk</a>
 | <a href="www.joshkirk.co.uk">My website</a>
-| <a href="phone number"> +44 7582 279798</a>
+| <a href="+44 7582 279798"> +44 7582 279798</a>
 </div> 
 
 
