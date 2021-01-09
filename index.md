@@ -14,16 +14,27 @@ A junior data scientist
 
 ## Currently
 
-Standing on the shoulders of giants
+A junior data scientist at Siemens Digital Industries working within the Lighthouse team
 
-### Specialized in
+### Projects
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+For the majority of my time within the Lighthouse I have working on SIWA Blockage Predictor, including side projects to advance our capabilities.
+
+This project has involved:
+
+* Exploratory data analysis
+* Dealing with low quality and incomplete data
+* Data wrangling
+* Designing and training models
+* Evaluating models
+
+Side enhance projects have included:
+
+* Developing a python package for producing consistent logs
+* Producing a generalised model
+* Researching different methods for automated data quality labelling of time series data
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
@@ -48,31 +59,8 @@ __Trinity College, Cambridge__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020` *Siemens* Doing what matters Finalist
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
