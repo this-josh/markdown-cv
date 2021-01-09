@@ -3,7 +3,8 @@ layout: cv
 title: Josh Kirk’s CV
 ---
 # Josh Kirk
-Physicist, Mathematician, Cambridge professor.
+
+A junior data scientist
 
 <div id="webaddress">
 <a href="josh@joshkirk.co.uk">josh@joshkirk.co.uk</a>
