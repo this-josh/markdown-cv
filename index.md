@@ -52,13 +52,16 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009-2014`
+__Norton College, Norton__, 8 *GCSE*'s from A to C including English and Maths
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2009-2014`
+__Norton College, Norton__,   
+*AS* EPQ research project "How environmentally friendly is civil aviation currently and how may it change in the future?""  
+*A2*s in Physics, Geography, and Maths
 
-- Sizar
+`2014 - 2019`
+__Liverpool John Moores University, Liverpool__
 
 `1667 - death`
 __Trinity College, Cambridge__
