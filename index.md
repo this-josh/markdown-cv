@@ -7,8 +7,8 @@ title: Josh Kirk’s CV
 A junior data scientist
 
 <div id="webaddress">
-<a href="josh@joshkirk.co.uk">josh@joshkirk.co.uk</a>
-| <a href="www.joshkirk.co.uk">My website</a>
+<a href="mailto:josh@joshkirk.co.uk">josh@joshkirk.co.uk</a>
+| <a href="http://www.joshkirk.co.uk">My website</a>
 | <a href="tel:+44 7582 279798"> +44 7582 279798</a>
 </div> 
 
