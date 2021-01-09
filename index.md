@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Josh Kirk’s CV
 ---
 # Josh Kirk
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="josh@joshkirk.co.uk">josh@joshkirk.co.uk</a>
+| <a href="www.joshkirk.co.uk">My website</a>
 </div>
-[memail](josh@joshkirk.co.uk) |[my site](www.joshkirk.co.uk) 
 
 ## Currently
 
