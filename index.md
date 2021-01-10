@@ -40,7 +40,9 @@ Side enhance projects have included:
 ## Education
 
 `2009-2014`
-__Norton College, Norton__, 8 *GCSE*'s from A to C including English and Maths
+__Norton College, Norton__,   
+
+8 *GCSE*'s from A to C including English and Maths
 
 `2009-2014`
 __Norton College, Norton__,   
