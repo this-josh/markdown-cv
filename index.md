@@ -57,6 +57,10 @@ __Norton College, Norton__,
 `2014 - 2019`
 __Liverpool John Moores University, Liverpool__
 
+*BEng (hons)* Electrical and Electronic, first-class
+
+During my degree I studied a wide range of modules giving me a rounded understand of electronics. Modules such as Engineering Mathematics and Signal Processing are obviously applicable to Data Science. While some of the modules that seem less applicable give me a key advantage in studying where data comes from, for example Digital and Analogue Electronics gave me an intricate understanding of how a sensor takes a reading and the limitations which can occur.
+
 ## Awards
 
 `2020` *Siemens* Doing what matters Finalist
