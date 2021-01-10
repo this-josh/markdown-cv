@@ -70,6 +70,15 @@ __Siemens Digital Industries__, Manchester
 - Warden
 - Minted coins
 
+`2018`
+__Siemens Rail Automation__, York
+
+In 2018 I undertook a summer placement, while I now rarely use the technical skills I learnt during this placement I am still benefitting from it. Two of the main lessons I have from this time are:
+
+1. An appreciation for old, tried, and tested methods in safety critical application and an understanding for resistance to any deviation from these methods
+2. Integrating, and working in a close group. The York office design floor has about 60 people on it, many enter this office straight from school, aid their kith and kins applications, and will ultimately retire while working here. This was a very closely knit department with decades and generations of relationships, which I managed to integrate well into and enjoyed the warmth of their inner circle.
+
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
