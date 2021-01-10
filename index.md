@@ -12,6 +12,9 @@ A junior data scientist
 | <a href="tel:+44 7582 279798"> +44 7582 279798</a>
 </div> 
 
+## About me
+I am highly motivated and strive to improve myself with everything I do whilst completing it to the highest standard. I enjoy learning new things and therefore new challenges. I thrive on applying myself to problems which I haven’t previously encountered. When approaching an unfamiliar concept, I try to comprehend it fully through my own research. However, I am confident enough to ask a superior for advice if I encounter issues. I seek to improve practises to their maximum potential while also appreciating the importance of old methods.
+
 ## Currently
 
 A junior data scientist at Siemens Digital Industries working within the Lighthouse team
