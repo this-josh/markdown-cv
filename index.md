@@ -51,7 +51,7 @@ __Norton College, Norton__, 8 *GCSE*'s from A to C including English and Maths
 
 `2009-2014`
 __Norton College, Norton__,   
-*AS* EPQ research project "How environmentally friendly is civil aviation currently and how may it change in the future?""  
+*AS* EPQ research project "How environmentally friendly is civil aviation currently and how may it change in the future?”  
 *A2*s in Physics, Geography, and Maths
 
 `2014 - 2019`
