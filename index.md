@@ -70,11 +70,6 @@ __Siemens Digital Industries__, Manchester
 - Warden
 - Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
 <!-- ### Footer
 
 Last updated: May 2013 -->
