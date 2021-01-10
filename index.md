@@ -64,8 +64,8 @@ During my degree I studied a wide range of modules giving me a rounded understan
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2019 - present`
+__Siemens Digital Industries__, Manchester
 
 - Warden
 - Minted coins
