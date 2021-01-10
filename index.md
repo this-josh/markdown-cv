@@ -57,13 +57,6 @@ __Norton College, Norton__,
 `2014 - 2019`
 __Liverpool John Moores University, Liverpool__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
 ## Awards
 
 `2020` *Siemens* Doing what matters Finalist
